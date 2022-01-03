@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<h4 align="center">👨‍🎓 B.Tech'23(E.C.E) from Purnea College Of Engineering(A.K.U Patna)</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderharsh06&label=Profile%20views&color=0e75b6&style=flat" alt="coderharsh06" /> </p>
 
