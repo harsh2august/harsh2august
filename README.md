@@ -28,4 +28,4 @@
 <a href="https://auth.geeksforgeeks.org/user/coderharsh06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coderharsh06" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderharsh06&show_icons=true&locale=en" alt="coderharsh06" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-harsh&show_icons=true&locale=en" alt="coderharsh06" /></p>
