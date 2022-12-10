@@ -99,9 +99,9 @@ I have contributed to build the first club [Intellimixio](https://intellimixio.i
 
 <h3 align="center">Get in touch</h3>
 <p align="center">
- 
-- Follow me on [Social Media](https://about.coderharsh.in/social/)
+
 - Read my latest [Blog](https://coderharsh.in/)
-     
+- Follow me on [Social Media](https://about.coderharsh.in/social/)
+- Download my latest [Resume](https://drive.google.com/file/d/1A2Ev_o78y5NDEnqZg-5hJuE8Jmlc6st1/view)
 </p>
 
