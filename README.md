@@ -12,11 +12,12 @@
 </p>
  <p align="center"> <a href="https://twitter.com/coderharsh06" target="blank"><img src="https://img.shields.io/twitter/follow/coderharsh06?logo=twitter&style=for-the-badge" alt="coderharsh06" /></a> </p>
  
-<p align="justify">Harsh Kumar is a Front end Developer, Tech Blogger. I have strong technical skills and I am ECE undergraduate student of 2019-23 batch from Govt. Purnea College Of Engineering affiliated with Aaryabhatta Knowledge University Patna. Currently I am working as a Frontend Developer Intern at Indian Developers
-</p>
-Please feel free to get in touch with me via email at harshj7.net@gmail.com or visit https://about.coderharsh.in
+<p align="justify">Harsh Kumar is a Front end Developer, Tech Blogger. I have strong technical skills and I am ECE undergraduate student of 2019-23 batch from Govt. Purnea College Of Engineering affiliated with Aaryabhatta Knowledge University Patna. Currently I am working as a Frontend Developer Intern at Indian Developers. 
+     
+ Please feel free to get in touch with me via email at harshj7.net@gmail.com or visit https://about.coderharsh.in</p>
 
-I have created several projects on web development. I secured 3rd Position in National Science Day Project Exhibition orgainzed by Bihar Council Of Science & Technology.
+<br>
+<p>I have created several projects on web development. I secured 3rd Position in National Science Day Project Exhibition orgainzed by Bihar Council Of Science & Technology.</p>
 
 I have contributed to build the first club [Intellimixio](https://intellimixio.in/) at my college & currently building [Indian Developers](https://indiandevelopers.org/)
 
@@ -63,9 +64,8 @@ I have contributed to build the first club [Intellimixio](https://intellimixio.i
 </table>
 -->
 
-### My Projects
+<h3 align="center">My Projects</h3>
 
-Check out some of my more interesting/stand-out github projects (in no particular order):
 
 | Project | Language/Tools/Sevices | Description | Link |
 | --- |:---:| --- | --- |
@@ -76,7 +76,7 @@ Check out some of my more interesting/stand-out github projects (in no particula
 
 
 
-### GitHub Stats 
+<h3 align="center">GitHub Stats</h3>
 
 <div>
 <p align="center">
@@ -88,15 +88,20 @@ Check out some of my more interesting/stand-out github projects (in no particula
 </div> 
 
 
-## Get in touch
-
-- Follow me on [Social Media](https://about.coderharsh.in/social/)
-- Read my latest [Blog](https://coderharsh.in/)
-
-### GitHub Streak
+<h3 align="center">GitHub Streak</h3>
 
 <div>
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-harsh&theme=chartreuse-dark" alt="Harsh Kumar" />
 </p>
 </div>
+
+
+<h3 align="center">Get in touch</h3>
+<p align="center">
+ 
+- Follow me on [Social Media](https://about.coderharsh.in/social/)
+- Read my latest [Blog](https://coderharsh.in/)
+     
+</p>
+
