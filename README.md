@@ -69,7 +69,7 @@ I have contributed to build the first club [Intellimixio](https://intellimixio.i
 
 | Project | Language/Tools/Sevices | Description | Link |
 | --- |:---:| --- | --- |
-| Meta Tag Generator | HTML, CSS, JS, Netlify | Generate essential meta tags for website in seconds | [Link](https://meta-tag-generator.coderharsh.in/) |
+| Meta Tag Generator | HTML, CSS, JS, Netlify | Generate essential meta tags for your website in seconds | [Link](https://meta-tag-generator.coderharsh.in/) |
 | AKU Exam Resources | Bootstrap 5, SCSS, JS, HTML5, CSS3, Netlify, Shareme api | Platform for finding AKU Patna University exam resources | [Link](https://akuexam.netlify.app/) |
 | Indian Developers | HTML5, CSS3, JS, BOOTSTRAP, NETLIFY | This website is built for getting orders from clients for building apps, websites, & other services | [Link](https://indiandevelopers.org/) |
 | Blood Plaza | HTML5, CSS3, JS, BOOTSTRAP, Azure QnA, Microsoft Azure | Blood Plaza is a platform for blood donors & patient who cares most about needed once's heartbeat | [Link](https://coder-harsh.github.io/blood-plaza/) |
