@@ -10,7 +10,7 @@
  <img src="https://komarev.com/ghpvc/?username=coder-harsh&color=green" alt="bhartik021" />
  <img src="https://img.shields.io/github/followers/coder-harsh?label=followers&style=social"/>
 </p>
- <p align="center"> <a href="https://twitter.com/coderharsh06" target="blank"><img src="https://img.shields.io/twitter/follow/coderharsh06?logo=twitter&style=for-the-badge" alt="coderharsh06" /></a> </p>
+ <p align="center"> <a href="https://twitter.com/ihars_js" target="blank"><img src="https://img.shields.io/twitter/follow/coderharsh06?logo=twitter&style=for-the-badge" alt="coderharsh06" /></a> </p>
  
 <p align="justify">Harsh Kumar is a Front end Developer, Tech Blogger & SEO Analyst. I have strong technical skills in working with React JS and Javascript and I am an ECE undergraduate student of the 2019-23 batch from Govt. Purnea College Of Engineering is affiliated with Bihar Engineering University Patna. 
 
