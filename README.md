@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- Frontend Developer at Indian Developers | BTech'23
+ Analyst at GeeksForGeeks | BTech'23
 </p>   
 
 <p align="center">  
