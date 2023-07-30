@@ -7,7 +7,7 @@
 </p>   
 
 <p align="center">  
- <img src="https://komarev.com/ghpvc/?username=coder-harsh&color=green" alt="bhartik021" />
+ <img src="https://komarev.com/ghpvc/?username=coder-harsh&color=green" alt="coderharsh" />
  <img src="https://img.shields.io/github/followers/coder-harsh?label=followers&style=social"/>
 </p>
  <p align="center"> <a href="https://twitter.com/ihars_js" target="blank"><img src="https://img.shields.io/twitter/follow/coderharsh06?logo=twitter&style=for-the-badge" alt="coderharsh06" /></a> </p>
