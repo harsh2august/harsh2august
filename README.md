@@ -16,10 +16,10 @@
 
 <br>
 <p>
-I have created several projects on web development. I secured 3rd Position in the National Science Day Project Exhibition organised by Bihar Council Of Science & Technology. I write blogs on https://coderharsh.in
-</p>
+I have created several projects on web development. I secured 3rd Position in the National Science Day Project Exhibition organised by Bihar Council Of Science & Technology.
 
-Please feel free to get in touch with me via email at harshj7.net@gmail.com or visit https://about.coderharsh.in</p>
+
+Please feel free to get in touch with me via [Email](mailto:harshj7.net@gmail.com) or visit my [Personal Website](https://about.coderharsh.in)</p>
 
 
 <!--
