@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- Analyst at GeeksForGeeks | BTech'23
+ Analyst at GeeksForGeeks | Frontend Developer
 </p>   
 
 <p align="center">  
