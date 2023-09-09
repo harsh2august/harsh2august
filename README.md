@@ -12,7 +12,7 @@
 </p>
  <p align="center"> <a href="https://twitter.com/iharsh_js" target="blank"><img src="https://img.shields.io/twitter/follow/iharsh_js?logo=twitter&style=for-the-badge" alt="coderharsh" /></a> </p>
  
-<p align="justify">Harsh Kumar is a Front end Developer, Tech Blogger & an SEO Analyst. I have strong technical skills in working with React JS and Javascript and I am an ECE undergraduate student of the 2019-23 batch from Govt. Purnea College Of Engineering is affiliated with Bihar Engineering University Patna. 
+<p align="justify">Harsh Kumar is a Front-end Developer and an Analyst at GeeksForGeeks. I have strong technical skills in working with React JS and Javascript and I am an ECE undergraduate student of the 2019-23 batch from Govt. Purnea College Of Engineering is affiliated with Bihar Engineering University Patna. 
 
 <br>
 <p>
