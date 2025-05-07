@@ -28,8 +28,6 @@ Please feel free to get in touch with me via [Email](mailto:info@coderharsh.in) 
 | Project | Language/Tools/Sevices | Description | Link |
 | --- |:---:| --- | --- |
 | Marriage Biodata Online | React JS, Chakra Ui, Tailwind CSS, Javascript | Free Biodata Maker | [Link](https://marriagebiodataonline.com/) |
-| Indian Developers | React JS, Chakra Ui, Tailwind CSS, Javascript | A SaaS agency website | [Link](https://www.indiandevelopers.org/) |
-| Maadico Healthcare | React JS, Chakra Ui, Tailwind CSS, Hostinger, Nginx | An e-commerce cum appointment scheducling portal for hospital | [Link](https://maadico.in) |
 
 
 
