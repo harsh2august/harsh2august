@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- Frontend Developer @Not Your Idea • React JS • Javascript • Ex @GeeksforGeeks • Ex @Scaler • BEU Patna
+ Full Stack Developer @Not Your Idea • React JS • Javascript • Ex @GeeksforGeeks • Ex @Scaler • BEU Patna
 </p>   
 
 <p align="center">  
