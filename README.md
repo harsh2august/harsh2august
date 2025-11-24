@@ -12,7 +12,7 @@
 </p>
  <p align="center"> <a href="https://twitter.com/harsh2august" target="blank"><img src="https://img.shields.io/twitter/follow/iharsh_js?logo=twitter&style=for-the-badge" alt="coderharsh" /></a> </p>
  
-<p align="justify">Harsh Kumar is a Front-end Developer at Not Your Idea. I have strong technical skills in working with React JS and Javascript and I am an ECE graduate of 2019-23 batch from Govt. Purnea College Of Engineering. I love building products to solve real-world problems.
+<p align="justify">Harsh Kumar is a Full Stack Developer at Not Your Idea. I have strong technical skills in working with React JS and Javascript and I am an ECE graduate of 2019-23 batch from Govt. Purnea College Of Engineering. I love building products to solve real-world problems.
 
 <br>
 <p>
