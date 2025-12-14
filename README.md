@@ -1,72 +1,85 @@
-# Hi 👋, I'm Harsh Kumar  
+# Hi 👋, I'm Harsh Kumar
 
-🚀 **Full Stack Developer** | **Next.js • React • Node.js • AWS • GenAI**  
+🚀 **Software Engineer | Full Stack • GenAI • Product Development**
 
-I’m a passionate Full Stack Developer with experience building **scalable SaaS platforms, e-commerce systems, LMS solutions, and real-time applications**. I enjoy solving real-world problems, optimizing performance, and working at the intersection of **modern web development and AI**.
+I’m a Software Engineer experienced in building **high-performance, scalable web applications** and **GenAI-powered products**, currently contributing to **healthcare technology at AstraZeneca**. I enjoy working on complex systems, optimizing performance, and delivering real-world impact through software.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer at **Not Your Idea LLP**
-- 🌱 Working with **Next.js, Node.js, AWS, Docker, WebSockets, and GenAI**
-- ⚡ Strong focus on **performance optimization & SEO**
-- 🏆 University-level **Hackathon Winner**
-- 🌍 Built products used by **30K+ monthly organic users**
-- 🤝 Actively contributing to **open-source projects**
+- 💼 **Software Engineer (Remote) @ AstraZeneca** — *Oct 2024 – Present*
+- 🧠 Working on **GenAI-powered healthcare products**
+- 🌱 Strong focus on **performance, scalability, and clean architecture**
+- ⚡ Experience with **SaaS, LMS, E-commerce, and Real-time systems**
+- 🏆 **University-level Hackathon Winner**
+- 🌍 Built products serving **30K+ monthly organic users**
+- 🤝 Active **Open Source Contributor**
 
-📫 **Reach me at:**  
-**Email:** harshj7.net@gmail.com | contact@coderharsh.in  
+📫 **Contact:**  
+📧 contact@coderharsh.in  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-`JavaScript` `TypeScript` `C++`
+`JavaScript` `TypeScript` `C++` `Python`
 
 ### ⚙️ Frameworks & Libraries
-`React.js` `Next.js` `Redux` `Node.js` `Express.js`  
-`Material UI` `Socket.IO` `Chart.js`
+`React.js` `Next.js` `Redux`  
+`Node.js` `Express.js`  
+`Socket.IO` `Material UI` `Chart.js`
 
 ### ☁️ Platforms & Tools
-`AWS EC2` `S3` `CloudFront` `Docker`  
-`MongoDB` `Postman` `Git` `Linux`  
-`Nginx` `n8n` `Gemini LLM`
+`AWS (EC2, S3, CloudFront)`  
+`Docker` `MongoDB` `Postman`  
+`Git` `Linux` `Nginx`  
+`n8n` `Gemini LLM`
 
-### 🌐 Web
-`HTML5` `CSS3` `SEO` `SSR`
+### 🌐 Web & SEO
+`HTML5` `CSS3` `SSR` `Technical SEO`
 
 ---
 
 ## 💼 Experience
 
-### **Full Stack Developer** — *Not Your Idea LLP*  
-📍 Mumbai | 🗓 Mar 2025 – Present  
+### **Software Engineer (Remote)** — *AstraZeneca*  
+🗓 **Oct 2024 – Present**
 
-- Building and maintaining an **in-house eCommerce product** for dropshipper vendors.
-- Designed and developed APIs for a **custom CMS platform** used by **200+ freelancers and in-house writers**.
-- Optimized rendering logic and reusable components, improving **Core Web Vitals by 20%**.
-- Revamped the **admin panel from scratch** for faster insights and better data visualization.
+- Contributing to **GenAI-driven healthcare products** used across internal teams.
+- Working on **secure, scalable, and compliant systems** aligned with healthcare standards.
+- Collaborating with cross-functional global teams in a **remote-first environment**.
+- Improving system reliability, developer experience, and AI-assisted workflows.
+
+---
+
+### **Full Stack Developer** — *Not Your Idea LLP*  
+🗓 Mar 2025 – Oct 2025 | Mumbai  
+
+- Building and maintaining an **in-house eCommerce platform** for dropshipper vendors.
+- Designed APIs for a **custom CMS** used by **200+ freelancers and writers**.
+- Improved **Core Web Vitals by 20%** through optimized rendering strategies.
+- Rebuilt admin dashboard from scratch for faster insights and better data visualization.
 
 ---
 
 ### **Full Stack Developer** — *Creators Mind*  
-🌍 Remote | 🗓 Jul 2024 – Feb 2025  
+🗓 Jul 2024 – Feb 2025 | Remote  
 
-- Built a **multi-tenant LMS backend from scratch** for educators.
-- Implemented **secure authentication, course tracking, video streaming, and real-time updates** using WebSockets.
-- Developed a **PDF marketplace** with secure payments and scalable architecture.
-- Managed **continuous deployment on AWS EC2** with performance-focused scaling.
+- Built a **multi-tenant LMS backend** from scratch.
+- Implemented **authentication, course tracking, video streaming, and real-time updates**.
+- Developed a **PDF marketplace** with secure payments.
+- Managed **AWS EC2 deployments** with scalable architecture.
 
 ---
 
 ### **Front End Developer** — *GeeksforGeeks*  
-📍 Noida | 🗓 Jul 2023 – Jun 2024  
+🗓 Jul 2023 – Jun 2024 | Noida  
 
-- Redesigned the **Write Portal & Course Modules** with reusable components.
-- Implemented SSR-based SEO optimizations.
-- Helped drive **30M+ organic users from SERP** through technical SEO improvements.
+- Redesigned **Write Portal & Course Modules** using reusable components.
+- Optimized SSR-based SEO leading to **30M+ organic users**.
+- Ensured minimal load times across course platforms.
 
 ---
 
@@ -74,36 +87,35 @@ I’m a passionate Full Stack Developer with experience building **scalable SaaS
 
 ### 🧾 **Biodata Maker**
 **Tech:** Next.js, Gemini SDK, Chart.js, Node.js, Express, MongoDB  
-🔗 **Live:** https://www.marriagebiodataonline.com  
+🔗 https://www.marriagebiodataonline.com  
 
-- Full-stack marriage biodata creation platform with admin panel.
-- Client-side PDF generation (no authentication required).
-- Achieved **30,000+ monthly organic users**.
+- Full-stack biodata creation platform with admin dashboard.
+- Client-side PDF generation without authentication.
+- **30,000+ monthly organic users**.
 
 ---
 
 ### 🗂 **Kanban Task Board**
 **Tech:** React.js, Node.js, Express, MongoDB, Socket.IO  
-🔗 **Live:** https://kanban-aastha.netlify.app  
+🔗 https://kanban-aastha.netlify.app  
 
-- Real-time task board with authentication and drag-and-drop support.
-- Live collaboration powered by **Socket.IO**.
+- Real-time collaboration with drag-and-drop task management.
+- Live updates using **Socket.IO**.
 
 ---
 
 ### 📘 **PDF Bazaar**
 **Tech:** React, TypeScript, Node.js, Express, WebSockets  
-🔗 **Live:** https://pdfbazaar.indiandevelopers.org  
+🔗 https://pdfbazaar.indiandevelopers.org  
 
 - SaaS-based PDF selling platform with secure payments.
-- Real-time email notifications and smooth UI/UX.
-- Scalable backend handling authentication and transactions.
+- Real-time notifications and scalable backend architecture.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Electronics & Communication Engineering**  
+**B.Tech — Electronics & Communication Engineering**  
 **Bihar Engineering University**, Patna  
 📅 Sep 2019 – May 2023  
 
@@ -111,19 +123,19 @@ I’m a passionate Full Stack Developer with experience building **scalable SaaS
 
 ## 🏆 Achievements & Activities
 
-- 🥇 **Winner – University Level Hackathon**
+- 🥇 **Winner — University Level Hackathon**
 - 📈 Biodata Maker serves **15K+ real organic users/month**
-- 🌱 Active **Open Source Contributor**
+- 🌱 Active contributor to **Open Source projects**
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/harsh2august  
-- 🧑‍💻 GitHub: https://github.com/harsh2august  
-- 🌍 Portfolio: https://www.marriagebiodataonline.com  
-- 📧 Email: harshj7.net@gmail.com | contact@coderharsh.in  
+- 🌍 Portfolio: **https://about.coderharsh.in**
+- 💼 LinkedIn: https://linkedin.com/in/harsh2august
+- 🧑‍💻 GitHub: https://github.com/harsh2august
+- 📧 Email: harshj7.net@gmail.com | contact@coderharsh.in
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ *If you find my work useful, feel free to star my repositories!*
