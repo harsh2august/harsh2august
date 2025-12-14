@@ -1,62 +1,129 @@
-<div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Kumar;Web+Developer;Blogger"/>
-</div>
+# Hi 👋, I'm Harsh Kumar  
 
-<p align="center">
- Full Stack Developer @Not Your Idea • React JS • Javascript • Ex @GeeksforGeeks • Ex @Scaler • BEU Patna
-</p>   
+🚀 **Full Stack Developer** | **Next.js • React • Node.js • AWS • GenAI**  
 
-<p align="center">  
- <img src="https://komarev.com/ghpvc/?username=harsh2august&color=green" alt="coderharsh" />
- <img src="https://img.shields.io/github/followers/harsh2august?label=followers&style=social"/>
-</p>
- <p align="center"> <a href="https://twitter.com/harsh2august" target="blank"><img src="https://img.shields.io/twitter/follow/iharsh_js?logo=twitter&style=for-the-badge" alt="coderharsh" /></a> </p>
- 
-<p align="justify">Harsh Kumar is a Full Stack Developer at Not Your Idea. I have strong technical skills in working with React JS and Javascript and I am an ECE graduate of 2019-23 batch from Govt. Purnea College Of Engineering. I love building products to solve real-world problems.
+I’m a passionate Full Stack Developer with experience building **scalable SaaS platforms, e-commerce systems, LMS solutions, and real-time applications**. I enjoy solving real-world problems, optimizing performance, and working at the intersection of **modern web development and AI**.
 
-<br>
-<p>
-I have created several web development projects. I secured 3rd Position in the National Science Day Project Exhibition organised by Bihar Council Of Science & Technology.
+---
 
+## 🧑‍💻 About Me
 
-Please feel free to get in touch with me via [Email](mailto:contact@coderharsh.in) or visit my [Personal Website](https://about.coderharsh.in)</p>
+- 💼 Full Stack Developer at **Not Your Idea LLP**
+- 🌱 Working with **Next.js, Node.js, AWS, Docker, WebSockets, and GenAI**
+- ⚡ Strong focus on **performance optimization & SEO**
+- 🏆 University-level **Hackathon Winner**
+- 🌍 Built products used by **30K+ monthly organic users**
+- 🤝 Actively contributing to **open-source projects**
 
+📫 **Reach me at:**  
+**Email:** harshj7.net@gmail.com | contact@coderharsh.in  
 
-<h3 align="center">My Projects</h3>
+---
 
+## 🛠 Tech Stack
 
-| Project | Language/Tools/Sevices | Description | Link |
-| --- |:---:| --- | --- |
-| Marriage Biodata Online | React JS, Chakra Ui, Tailwind CSS, Javascript | Free Biodata Maker | [Link](https://marriagebiodataonline.com/) |
+### 💻 Languages
+`JavaScript` `TypeScript` `C++`
 
+### ⚙️ Frameworks & Libraries
+`React.js` `Next.js` `Redux` `Node.js` `Express.js`  
+`Material UI` `Socket.IO` `Chart.js`
 
+### ☁️ Platforms & Tools
+`AWS EC2` `S3` `CloudFront` `Docker`  
+`MongoDB` `Postman` `Git` `Linux`  
+`Nginx` `n8n` `Gemini LLM`
 
-<h3 align="center">GitHub Stats</h3>
+### 🌐 Web
+`HTML5` `CSS3` `SEO` `SSR`
 
-<div>
-<p align="center">
-<a href="https://github.com/coder-harsh">
-<img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsh2august&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsh2august&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p> 
-</div> 
+---
 
+## 💼 Experience
 
-<h3 align="center">GitHub Streak</h3>
+### **Full Stack Developer** — *Not Your Idea LLP*  
+📍 Mumbai | 🗓 Mar 2025 – Present  
 
-<div>
-<p align ="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh2august&theme=chartreuse-dark" alt="Harsh Kumar" />
-</p>
-</div>
+- Building and maintaining an **in-house eCommerce product** for dropshipper vendors.
+- Designed and developed APIs for a **custom CMS platform** used by **200+ freelancers and in-house writers**.
+- Optimized rendering logic and reusable components, improving **Core Web Vitals by 20%**.
+- Revamped the **admin panel from scratch** for faster insights and better data visualization.
 
+---
 
-<h3 align="center">Get in touch</h3>
-<p align="center">
+### **Full Stack Developer** — *Creators Mind*  
+🌍 Remote | 🗓 Jul 2024 – Feb 2025  
 
-- Read my latest [Blog](https://coderharsh.in/)
-- Follow me on [Social Media](https://about.coderharsh.in)
-- Download my latest [Resume](https://drive.google.com/file/d/1A2Ev_o78y5NDEnqZg-5hJuE8Jmlc6st1/view)
-</p>
+- Built a **multi-tenant LMS backend from scratch** for educators.
+- Implemented **secure authentication, course tracking, video streaming, and real-time updates** using WebSockets.
+- Developed a **PDF marketplace** with secure payments and scalable architecture.
+- Managed **continuous deployment on AWS EC2** with performance-focused scaling.
 
+---
+
+### **Front End Developer** — *GeeksforGeeks*  
+📍 Noida | 🗓 Jul 2023 – Jun 2024  
+
+- Redesigned the **Write Portal & Course Modules** with reusable components.
+- Implemented SSR-based SEO optimizations.
+- Helped drive **30M+ organic users from SERP** through technical SEO improvements.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧾 **Biodata Maker**
+**Tech:** Next.js, Gemini SDK, Chart.js, Node.js, Express, MongoDB  
+🔗 **Live:** https://www.marriagebiodataonline.com  
+
+- Full-stack marriage biodata creation platform with admin panel.
+- Client-side PDF generation (no authentication required).
+- Achieved **30,000+ monthly organic users**.
+
+---
+
+### 🗂 **Kanban Task Board**
+**Tech:** React.js, Node.js, Express, MongoDB, Socket.IO  
+🔗 **Live:** https://kanban-aastha.netlify.app  
+
+- Real-time task board with authentication and drag-and-drop support.
+- Live collaboration powered by **Socket.IO**.
+
+---
+
+### 📘 **PDF Bazaar**
+**Tech:** React, TypeScript, Node.js, Express, WebSockets  
+🔗 **Live:** https://pdfbazaar.indiandevelopers.org  
+
+- SaaS-based PDF selling platform with secure payments.
+- Real-time email notifications and smooth UI/UX.
+- Scalable backend handling authentication and transactions.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Electronics & Communication Engineering**  
+**Bihar Engineering University**, Patna  
+📅 Sep 2019 – May 2023  
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🥇 **Winner – University Level Hackathon**
+- 📈 Biodata Maker serves **15K+ real organic users/month**
+- 🌱 Active **Open Source Contributor**
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/harsh2august  
+- 🧑‍💻 GitHub: https://github.com/harsh2august  
+- 🌍 Portfolio: https://www.marriagebiodataonline.com  
+- 📧 Email: harshj7.net@gmail.com | contact@coderharsh.in  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*  
