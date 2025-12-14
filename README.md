@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harsh Kumar
 
-🚀 **Software Engineer | Full Stack • GenAI • Product Development**
+🚀 **Software Engineer @AstraZeneca | Full Stack • GenAI • Product Development**
 
 I’m a Software Engineer experienced in building **high-performance, scalable web applications** and **GenAI-powered products**, currently contributing to **healthcare technology at AstraZeneca**. I enjoy working on complex systems, optimizing performance, and delivering real-world impact through software.
 
