@@ -8,7 +8,7 @@ I’m a Software Engineer experienced in building **high-performance, scalable w
 
 ## 🧑‍💻 About Me
 
-- 💼 **Software Engineer (Remote) @ AstraZeneca** — *Oct 2024 – Present*
+- 💼 **Software Engineer @ AstraZeneca** — *Oct 2024 – Present*
 - 🧠 Working on **GenAI-powered healthcare products**
 - 🌱 Strong focus on **performance, scalability, and clean architecture**
 - ⚡ Experience with **SaaS, LMS, E-commerce, and Real-time systems**
