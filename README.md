@@ -87,7 +87,7 @@ I’m a Software Engineer experienced in building **high-performance, scalable w
 
 ### 🧾 **Biodata Maker**
 **Tech:** Next.js, Gemini SDK, Chart.js, Node.js, Express, MongoDB  
-🔗 https://www.marriagebiodataonline.com  
+🔗 [www.marriagebiodatacreator.com](https://www.marriagebiodatacreator.com/)  
 
 - Full-stack biodata creation platform with admin dashboard.
 - Client-side PDF generation without authentication.
